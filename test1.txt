@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BAE7-516A
+
+ Directory of C:\Users\LOKESH\Desktop\New folder
+
+18-01-2020  22:47    <DIR>          .
+18-01-2020  22:47    <DIR>          ..
+18-01-2020  22:45    <DIR>          test.txt
+18-01-2020  22:47                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  377,436,102,656 bytes free
